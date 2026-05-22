@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Ainakshi 👋  
 
-<!--
-**ainakshi-verma/ainakshi-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech CSE Student  
+🚀 Full-Stack Developer | AI & Cloud Enthusiast  
+🌱 Currently learning DevOps & Cybersecurity  
+🎵 Coding with music 24/7  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+Java • JavaScript • Python • React • Node.js • Django • MongoDB • MySQL • Docker • AWS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects  
+- 🌌 Food Redstribution System
+- 📦 Stockify – Smart Inventory System  
+- 🎟️ Journey game
+
+## 🏆 Achievements  
+🏅 Postman Student Expert  
+🌍 GSSoC 2024 Contributor  
+
+## 📫 Connect  
+LinkedIn: https://www.linkedin.com/in/ainakshiverma/
